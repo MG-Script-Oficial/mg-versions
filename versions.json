@@ -1,0 +1,17 @@
+{
+  "mg_vehiclekeys": {
+    "version": "1.0.1",
+    "changelog": "Fixed spawned vehicles not starting. Added support for qb-vehiclekeys key events.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_garages": {
+    "version": "1.2.0",
+    "changelog": "API for other scripts (dynamic garages).",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_ilegal": {
+    "version": "1.0.0",
+    "changelog": "",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  }
+}
