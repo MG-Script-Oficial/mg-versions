@@ -14,4 +14,9 @@
     "changelog": "",
     "download": "https://portal.cfx.re/assets/granted-assets"
   }
+  "mg_mechanic": {
+    "version": "1.14.1",
+    "changelog": "Version check, custom invoice in the tuning checkout and Discord logs split instead of cut.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  }
 }
