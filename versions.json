@@ -18,5 +18,10 @@
     "version": "1.0.0",
     "changelog": "Version check, custom invoice in the tuning checkout and Discord logs split instead of cut.",
     "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_banking": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
   }
 }
