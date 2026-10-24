@@ -11,12 +11,12 @@
   },
   "mg_ilegal": {
     "version": "1.0.0",
-    "changelog": "",
+    "changelog": "Initial release.",
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_mechanic": {
     "version": "1.0.0",
-    "changelog": "Version check, custom invoice in the tuning checkout and Discord logs split instead of cut.",
+    "changelog": "Initial release.",
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_banking": {
