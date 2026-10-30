@@ -20,8 +20,8 @@
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_banking": {
-    "version": "1.0.0",
-    "changelog": "Initial release.",
+    "version": "1.0.1",
+    "changelog": "New card design (no payment network look), MG mark on cards, card numbers no longer start with 4, fixed the bank not loading with multicharacter scripts that don't fire QBCore:Client:OnPlayerLoaded.",
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_multicharacter": {
