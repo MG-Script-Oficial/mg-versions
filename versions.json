@@ -58,5 +58,45 @@
     "version": "1.0.0",
     "changelog": "Initial release.",
     "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_radio": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_chat": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_drugs": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_gym": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_hud": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_loadingscreen": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_notify": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
+  },
+  "mg_weaponcraft": {
+    "version": "1.0.0",
+    "changelog": "Initial release.",
+    "download": "https://portal.cfx.re/assets/granted-assets"
   }
 }
