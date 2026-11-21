@@ -5,8 +5,8 @@
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_garages": {
-    "version": "1.2.0",
-    "changelog": "API for other scripts (dynamic garages).",
+    "version": "1.2.2",
+    "changelog": "New 'confiscate' garage type: police impound for origen_police that lists confiscated vehicles and charges their fine to the police society. server/custom.lua is no longer escrowed, so custom key systems can be wired in.",
     "download": "https://portal.cfx.re/assets/granted-assets"
   },
   "mg_ilegal": {
